@@ -82,8 +82,6 @@ My methodology toolkit spans quantitative survey analysis (SPSS, Stata, Python),
 
 ## 📊 Skill Proficiency
 
-<!-- Skill bars rendered as shields.io progress badges -->
-
 <div align="center">
 
 **Languages & Frameworks**
@@ -207,16 +205,11 @@ When I'm not buried in papers or code, you'll find me:
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<!-- Snake animation: auto-updated by GitHub Action -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JokesLin/JokesLin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JokesLin/JokesLin/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JokesLin/JokesLin/output/github-snake.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JokesLin&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -236,17 +229,14 @@ When I'm not buried in papers or code, you'll find me:
 
 <div align="center">
 
-<!-- Streak stats (demolab - verified working) -->
 <img src="https://streak-stats.demolab.com?user=JokesLin&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" width="80%" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<!-- Dynamic badges (verified working) -->
 ![Stars](https://img.shields.io/github/stars/JokesLin?style=flat-square&logo=github&labelColor=0d1117&color=58A6FF) ![Followers](https://img.shields.io/github/followers/JokesLin?style=flat-square&logo=github&labelColor=0d1117&color=58A6FF)
 
-<!-- Top Languages (static badges with real logos) -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 </div>
