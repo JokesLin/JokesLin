@@ -58,6 +58,27 @@ I explore how **technology empowers rural China** — from empirical studies on 
 
 ---
 
+## 📊 Skill Proficiency
+
+<!-- Skill bars rendered as shields.io progress badges -->
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-60%25-276DC3?style=flat-square&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Research & Analytics**
+
+![SPSS](https://img.shields.io/badge/SPSS-80%25-003B5C?style=flat-square&logo=ibm&logoColor=white) ![Stata](https://img.shields.io/badge/Stata-60%25-1E6DB3?style=flat-square&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-70%25-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-70%25-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-70%25-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-50%25-2496ED?style=flat-square&logo=docker&logoColor=white) ![AI Tools](https://img.shields.io/badge/AI_Tools-80%25-58A6FF?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -68,6 +89,10 @@ I explore how **technology empowers rural China** — from empirical studies on 
 ### 🌐 Personal Portal
 **[jokeslin.github.io](https://jokeslin.github.io/)**
 
+<a href="https://jokeslin.github.io/">
+  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=340&fit=crop&crop=center" width="100%" alt="Personal Portal Preview"/>
+</a>
+
 A full-stack static personal portal with 6 modules: bookmark navigation (100+ URLs, 12 categories), blog, digital resume, AI music, AI novel reader, and an AI software store. Zero external dependencies. Dark glassmorphism design.
 
 `HTML` `CSS` `JavaScript`
@@ -77,6 +102,10 @@ A full-stack static personal portal with 6 modules: bookmark navigation (100+ UR
 
 ### 📖 ZhiYuan Reader
 **Android Novel Reader v1.0.0**
+
+<a href="#">
+  <img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=600&h=340&fit=crop&crop=center" width="100%" alt="ZhiYuan Reader Preview"/>
+</a>
 
 A 17.5MB Android app featuring AI-powered recommendations and AI text-to-speech reading. Built for a seamless mobile reading experience.
 
@@ -90,6 +119,10 @@ A 17.5MB Android app featuring AI-powered recommendations and AI text-to-speech 
 ### 🎵 AI Music: 《远离林致远》
 *AI-assisted original composition*
 
+<a href="#">
+  <img src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=600&h=340&fit=crop&crop=center" width="100%" alt="AI Music Preview"/>
+</a>
+
 An experimental music piece created with AI composition tools, exploring the boundary between human creativity and machine generation.
 
 `AI Music` `Creative AI`
@@ -99,6 +132,10 @@ An experimental music piece created with AI composition tools, exploring the bou
 
 ### 📝 AI Novel: 《斗破农大》
 *AI-driven Parody Fiction*
+
+<a href="#">
+  <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&h=340&fit=crop&crop=center" width="100%" alt="AI Novel Preview"/>
+</a>
 
 A campus parody inspired by classic web novels, set in a fictional agricultural university. Features 19+ character profiles with detailed relationship networks — all AI-assisted.
 
