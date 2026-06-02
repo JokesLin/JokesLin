@@ -110,19 +110,6 @@ A campus parody inspired by classic web novels, set in a fictional agricultural 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/JokesLin">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JokesLin&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9DCE9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokesLin&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=58A6FF&text_color=C9DCE9" />
-</a>
-
-</div>
-
----
-
 ## 🎮 Beyond the Terminal
 
 <div align="center">
