@@ -1,108 +1,146 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3000&pause=1500&color=24292e&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Joke+Lin;Researcher+%C2%B7+Builder+%C2%B7+AI+Explorer)](https://git.io/typing-svg)
+<!-- Typing SVG Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Joke+Lin+%F0%9F%91%8B;Researcher+%C2%B7+Builder+%C2%B7+AI+Explorer)](https://git.io/typing-svg)
 
-Graduate student in Rural Development at Fujian Agriculture and Forestry University.  
-I build things that sit at the intersection of **social science** and **technology**.
+**Graduate Student @ Fujian Agriculture and Forestry University**<br/>
+*Rural Development · Digital Agriculture · Carbon Forestry*
 
-[![Portal](https://img.shields.io/badge/portal-jokeslin.github.io-blue?style=flat)](https://jokeslin.github.io/)
-[![GitHub followers](https://img.shields.io/github/followers/JokesLin?style=flat)](https://github.com/JokesLin)
+[![Portal](https://img.shields.io/badge/🌐_Portal-jokeslin.github.io-58A6FF?style=flat&logo=googlechrome&logoColor=white)](https://jokeslin.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/JokesLin?style=social)](https://github.com/JokesLin)
 
 </div>
 
 ---
 
-### Research
+## 🔬 Research Interests
 
+```
 Rural Revitalization · Digital Agriculture · Rural Collective Economy · Forest Carbon Sink
+```
 
-I study how technology can empower rural communities in China — from empirical research on farmer participation in carbon sink programs, to drafting industry development plans for rural towns, to critically reflecting on how AI reshapes academic workflows.
+I explore how **technology empowers rural China** — from empirical studies on farmer participation in carbon sink programs, to industry planning for rural towns, to reflecting on how AI reshapes academic workflows. My work sits at the intersection of **social science** and **tech-enabled methodology**.
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Analytics & Research**
+
+![SPSS](https://img.shields.io/badge/SPSS-003B5C?style=for-the-badge&logo=ibm&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1E6DB3?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Dev Tools & Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
+
+**Networking & Self-hosted**
+
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-### Skill Radar
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portal
+**[jokeslin.github.io](https://jokeslin.github.io/)**
+
+A full-stack static personal portal with 6 modules: bookmark navigation (100+ URLs, 12 categories), blog, digital resume, AI music, AI novel reader, and an AI software store. Zero external dependencies. Dark glassmorphism design.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 📖 ZhiYuan Reader
+**Android Novel Reader v1.0.0**
+
+A 17.5MB Android app featuring AI-powered recommendations and AI text-to-speech reading. Built for a seamless mobile reading experience.
+
+`Android` `AI/ML` `TTS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎵 AI Music: 《远离林致远》
+*AI-assisted original composition*
+
+An experimental music piece created with AI composition tools, exploring the boundary between human creativity and machine generation.
+
+`AI Music` `Creative AI`
+
+</td>
+<td width="50%">
+
+### 📝 AI Novel: 《斗破农大》
+*AI-driven Parody Fiction*
+
+A campus parody inspired by classic web novels, set in a fictional agricultural university. Features 19+ character profiles with detailed relationship networks — all AI-assisted.
+
+`AI Writing` `World-building`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎮 Beyond the Terminal
 
 <div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgwIiBoZWlnaHQ9IjQ4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNDgwIiBoZWlnaHQ9IjQ4MCIgZmlsbD0iI2ZmZmZmZiIgcng9IjEyIi8+PHRleHQgeD0iMjQwIiB5PSIzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjMjQyOTJlIj5Ta2lsbCBSYWRhcjwvdGV4dD48cG9seWdvbiBwb2ludHM9IjI0MCw4OCAyOTYuNCwxMTguNCAzMjYuNCwxNzIgMzI2LjQsMjY4IDI5Ni40LDMyMS42IDI0MCwzNTIgMTgzLjYsMzIxLjYgMTUzLjYsMjY4IDE1My42LDE3MiAxODMuNiwxMTguNCIgZmlsbD0iI2Y2ZjhmYSIgc3Ryb2tlPSIjZTFlNWViIiBzdHJva2Utd2lkdGg9IjEiLz48cG9seWdvbiBwb2ludHM9IjI0MCwxMTggMjg2LjgsMTQzLjUgMzEyLDE4OCAzMTIsMjUyIDI4Ni44LDI5Ni41IDI0MCwzMjIgMTkzLjIsMjk2LjUgMTY4LDI1MiAxNjgsMTg4IDE5My4yLDE0My41IiBmaWxsPSJub25lIiBzdHJva2U9IiNlMWU1ZWIiIHN0cm9rZS13aWR0aD0iMSIvPjxwb2x5Z29uIHBvaW50cz0iMjQwLDE0OCAyNzcuMiwxNjguNSAyOTcuNiwyMDQgMjk3LjYsMjM2IDI3Ny4yLDI3MS41IDI0MCwyOTIgMjAyLjgsMjcxLjUgMTgyLjQsMjM2IDE4Mi40LDIwNCAyMDIuOCwxNjguNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZTFlNWViIiBzdHJva2Utd2lkdGg9IjEiLz48cG9seWdvbiBwb2ludHM9IjI0MCwxNzggMjY3LjYsMTkzLjUgMjgzLjIsMjIwIDI4My4yLDI0NCAyNjcuNiwyNjkuNSAyNDAsMjg2IDIxMi40LDI2OS41IDE5Ni44LDI0NCAxOTYuOCwyMjAgMjEyLjQsMTkzLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2UxZTVlYiIgc3Ryb2tlLXdpZHRoPSIxIi8+PGxpbmUgeDE9IjI0MCIgeTE9IjIyMCIgeDI9IjI0MCIgeTI9Ijg4IiBzdHJva2U9IiNlMWU1ZWIiIHN0cm9rZS13aWR0aD0iMSIvPjxsaW5lIHgxPSIyNDAiIHkxPSIyMjAiIHgyPSIyOTYuNCIgeTI9IjExOC40IiBzdHJva2U9IiNlMWU1ZWIiIHN0cm9rZS13aWR0aD0iMSIvPjxsaW5lIHgxPSIyNDAiIHkxPSIyMjAiIHgyPSIzMjYuNCIgeTI9IjE3MiIgc3Ryb2tlPSIjZTFlNWViIiBzdHJva2Utd2lkdGg9IjEiLz48bGluZSB4MT0iMjQwIiB5MT0iMjIwIiB4Mj0iMzI2LjQiIHkyPSIyNjgiIHN0cm9rZT0iI2UxZTVlYiIgc3Ryb2tlLXdpZHRoPSIxIi8+PGxpbmUgeDE9IjI0MCIgeTE9IjIyMCIgeDI9IjI5Ni40IiB5Mj0iMzIxLjYiIHN0cm9rZT0iI2UxZTVlYiIgc3Ryb2tlLXdpZHRoPSIxIi8+PGxpbmUgeDE9IjI0MCIgeTE9IjIyMCIgeDI9IjI0MCIgeTI9IjM1MiIgc3Ryb2tlPSIjZTFlNWViIiBzdHJva2Utd2lkdGg9IjEiLz48bGluZSB4MT0iMjQwIiB5MT0iMjIwIiB4Mj0iMTgzLjYiIHkyPSIzMjEuNiIgc3Ryb2tlPSIjZTFlNWViIiBzdHJva2Utd2lkdGg9IjEiLz48bGluZSB4MT0iMjQwIiB5MT0iMjIwIiB4Mj0iMTUzLjYiIHkyPSIyNjgiIHN0cm9rZT0iI2UxZTVlYiIgc3Ryb2tlLXdpZHRoPSIxIi8+PGxpbmUgeDE9IjI0MCIgeTE9IjIyMCIgeDI9IjE1My42IiB5Mj0iMTcyIiBzdHJva2U9IiNlMWU1ZWIiIHN0cm9rZS13aWR0aD0iMSIvPjxsaW5lIHgxPSIyNDAiIHkxPSIyMjAiIHgyPSIxODMuNiIgeTI9IjExOC40IiBzdHJva2U9IiNlMWU1ZWIiIHN0cm9rZS13aWR0aD0iMSIvPjxwb2x5Z29uIHBvaW50cz0iMjQwLDE0MyAyOTIsMTcwIDMyMCwyMTggMzIwLDI3MiAyOTIsMzI4IDI0MCwzNTUgMTg4LDMyOCAxNjAsMjcyIDE2MCwyMTggMTg4LDE3MCIgZmlsbD0iIzU4QTZGRiIgZmlsbC1vcGFjaXR5PSIwLjEyIiBzdHJva2U9IiM1OEE2RkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLW9wYWNpdHk9IjAuOCIvPjxjaXJjbGUgY3g9IjI0MCIgY3k9IjE0MyIgcj0iMy41IiBmaWxsPSIjNTgBNkZGIi8+PGNpcmNsZSBjeD0iMjkyIiBjeT0iMTcwIiByPSIzLjUiIGZpbGw9IiM1OEE2RkYiLz48Y2lyY2xlIGN4PSIzMjAiIGN5PSIyMTgiIHI9IjMuNSIgZmlsbD0iIzU4QTZGRiIvPjxjaXJjbGUgY3g9IjMyMCIgY3k9IjI3MiIgcj0iMy41IiBmaWxsPSIjNTgBNkZGIi8+PGNpcmNsZSBjeD0iMjkyIiBjeT0iMzI4IiByPSIzLjUiIGZpbGw9IiM1OEE2RkYiLz48Y2lyY2xlIGN4PSIyNDAiIGN5PSIzNTUiIHI9IjMuNSIgZmlsbD0iIzU4QTZGRiIvPjxjaXJjbGUgY3g9IjE4OCIgY3k9IjMyOCIgcj0iMy41IiBmaWxsPSIjNTgBNkZGIi8+PGNpcmNsZSBjeD0iMTYwIiBjeT0iMjcyIiByPSIzLjUiIGZpbGw9IiM1OEE2RkYiLz48Y2lyY2xlIGN4PSIxNjAiIGN5PSIyMTgiIHI9IjMuNSIgZmlsbD0iIzU4QTZGRiIvPjxjaXJjbGUgY3g9IjE4OCIgY3k9IjE3MCIgcj0iMy41IiBmaWxsPSIjNTgBNkZGIi8+PHRleHQgeD0iMjQwIiB5PSI3NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjNjU2ZDc2Ij5MaXQgUmV2IDkwPC90ZXh0Pjx0ZXh0IHg9IjMwOSIgeT0iMTA4IiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGZvbnQtZmFtaWx5PSJJbnRlciwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzY1NmQ3NiI+QUkgVG9vbHMgODg8L3RleHQ+PHRleHQgeD0iMzQyIiB5PSIxNjUiIHRleHQtYW5jaG9yPSJzdGFydCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjNjU2ZDc2Ij5TdXJ2ZXkgODU8L3RleHQ+PHRleHQgeD0iMzQyIiB5PSIyODAiIHRleHQtYW5jaG9yPSJzdGFydCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjNjU2ZDc2Ij5QeXRob24gODU8L3RleHQ+PHRleHQgeD0iMzA5IiB5PSIzNDAiIHRleHQtYW5jaG9yPSJzdGFydCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjNjU2ZDc2Ij5TUFNTIDgwPC90ZXh0Pjx0ZXh0IHg9IjI0MCIgeT0iMzg0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM2NTZkNzYiPlByb2ogVCA4MDwvdGV4dD48dGV4dCB4PSIxNzEiIHk9IjM0MCIgdGV4dC1hbmNob3I9ImVuZCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjNjU2ZDc2Ij5Gcm9udGVuZCA3NTwvdGV4dD48dGV4dCB4PSIxMzgiIHk9IjI4MCIgdGV4dC1hbmNob3I9ImVuZCIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmaWxsPSIjNjU2ZDc2Ij5Xcml0aW5nIDg1PC90ZXh0Pjx0ZXh0IHg9IjEzOCIgeT0iMTY1IiB0ZXh0LWFuY2hvcj0iZW5kIiBmb250LWZhbWlseT0iSW50ZXIsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM2NTZkNzYiPlBhcGVyIDg1PC90ZXh0Pjx0ZXh0IHg9IjE3MSIgeT0iMTA4IiB0ZXh0LWFuY2hvcj0iZW5kIiBmb250LWZhbWlseT0iSW50ZXIsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM2NTZkNzYiPkdpdCA3MDwvdGV4dD48L3N2Zz4=" alt="Skill Radar" width="400"/>
-
-</div>
-
----
-
-### Featured Projects
-
-| | Project | Description |
-|---|---|---|
-| | **[Personal Portal](https://jokeslin.github.io/)** | Full-stack static site — 6 modules, 100+ bookmarks, AI music, novel reader, zero dependencies |
-| | **ZhiYuan Reader** | Android novel reader with AI recommendations and TTS |
-| | **AI Music** | Original composition exploring human-AI creative collaboration |
-| | **AI Novel** | Campus parody fiction with 19+ AI-assisted character profiles |
-
----
-
-### Stats
-
-<div align="center">
-
-<a href="https://github.com/JokesLin">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JokesLin&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&title_color=24292e&icon_color=58a6ff&text_color=656d76" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JokesLin&layout=compact&theme=default&bg_color=ffffff&hide_border=true&title_color=24292e&text_color=656d76" />
-</a>
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<img src="./snake.svg" alt="Contribution Snake" width="660"/>
-
-</div>
-
----
-
-### Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=linyousong&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=24292e)](https://open.spotify.com/user/linyousong)
-
-</div>
-
----
-
-### Beyond the Terminal
 
 > *左手写论文，右手打游戏；上午做规划，下午搞开发*
 
-When I'm not buried in papers or code, you'll find me exploring open worlds (The Witcher 3, Cyberpunk 2077, Death Stranding), experimenting with AI-assisted music and fiction writing, or deep-diving the Fuzhou food scene.
+</div>
+
+When I'm not buried in papers or code, you'll find me:
+
+- 🎮 **Gaming** — 3A open-world enthusiast. The Witcher 3, Cyberpunk 2077, Death Stranding... I chase ray-traced beauty at 1440p over raw FPS
+- 🎬 **Content Creation** — Experimenting with AI-assisted music composition and AI-powered fiction writing
+- 🤖 **AI Explorer** — Multi-model power user switching between Claude, ChatGPT, Gemini, and beyond
+- 🍜 **Fuzhou Foodie** — Deep-diving the local food scene one bowl at a time
+
+---
+
+## 🏷️ Who Am I
+
+<div align="center">
+
+`Academic Researcher` `Full-Stack Tinkerer` `AI Tool Explorer` `Deadline-Driven Creator` `Open-World Wanderer` `Static-Site Maximalist`
+
+</div>
 
 ---
 
 <div align="center">
 
-`Academic Researcher` · `Full-Stack Tinkerer` · `AI Tool Explorer` · `Open-World Wanderer`
+*Built with curiosity, fueled by AI, running on caffeine.*
 
-![Visitors](https://komarev.com/ghpvc/?username=JokesLin&color=58a6ff&style=flat&label=views)
+![Visitors](https://komarev.com/ghpvc/?username=JokesLin&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
