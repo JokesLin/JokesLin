@@ -1,101 +1,106 @@
 <div align="center">
-  <img src="./assets/hero-window.svg" alt="Joke Lin — research, build, play" width="100%" />
+  <img src="./assets/hero-liquid-glass.svg" alt="Joke Lin — Researcher, Builder, Guitarist" width="100%" />
+  <br />
+  <br />
+  <a href="https://jokeslin.github.io/">VISIT PORTAL ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/JokesLin/EchoMusic">OPEN ECHOMUSIC ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/JokesLin">FIND ME ON GITHUB ↗</a>
 </div>
-
-<p align="center">
-  <a href="https://jokeslin.github.io/">PERSONAL SITE ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/JokesLin">GITHUB ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/JokesLin/EchoMusic">ECHOMUSIC ↗</a>
-</p>
 
 <br />
 
+## 01 / NOW
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ABOUT
+**RESEARCH**
 
-**Joke Lin / 林有崧**
-
-福州 · 福建农林大学农村发展硕士在读。
-
-我关注真实问题，也在用数据、AI 和前端把想法做成可使用的东西。
+Rural development  
+Digital agriculture  
+Forest carbon
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### STATUS
+**BUILD**
 
-`OPEN TO COLLABORATION`
+Python  
+Data workflows  
+AI-assisted tools
 
-研究 × AI / 数据工具  
-数字产品与静态站点  
-把复杂问题讲清楚
+</td>
+<td width="33%" valign="top">
+
+**OUTSIDE**
+
+Fuzhou, China  
+Guitar  
+Field notes
 
 </td>
 </tr>
 </table>
 
-## NOW
+> **Researcher. Builder. Rural × Data × AI.**  
+> Turning messy questions into useful interfaces.
 
-| WINDOW | FOCUS |
-| --- | --- |
-| `01 / RESEARCH` | 农村发展、数字农业、森林碳汇，以及技术如何进入具体场景 |
-| `02 / BUILD` | Python、数据分析、AI 协作、前端与静态站点 |
-| `03 / OUTSIDE` | 吉他、田野观察，以及持续整理自己的工作方法 |
-
-## WORKSPACE
+## 02 / WORKS
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://jokeslin.github.io/">
+  <img src="./assets/work-portal.svg" width="100%" alt="Personal Portal preview" />
+</a>
 
 ### [PERSONAL PORTAL ↗](https://jokeslin.github.io/)
 
-一个持续更新的数字个人空间，收纳研究笔记、工具、文章、音乐与实验性作品。
+A digital home base for notes, tools, writing, music, and experiments.
 
-`HTML` `CSS` `JavaScript` `GitHub Pages`
+<sub>HTML · CSS · JavaScript · GitHub Pages</sub>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/JokesLin/EchoMusic">
+  <img src="./assets/work-echomusic.svg" width="100%" alt="EchoMusic preview" />
+</a>
+
 ### [ECHOMUSIC ↗](https://github.com/JokesLin/EchoMusic)
 
-一个简约的第三方酷狗概念版音乐播放器，记录我对音乐产品、界面与交互的探索。
+A third-party Kugou concept player — a small study in sound, interface, and interaction.
 
-`MUSIC` `UI` `FRONTEND EXPLORATION`
+<sub>Music · UI · Frontend exploration</sub>
 
 </td>
 </tr>
 </table>
 
-## RESEARCH LENS
+## 03 / SIGNAL
 
-我关心的不只是“技术能不能做出来”，还包括它是否被真实使用、是否降低理解门槛，以及它能否在具体的地方产生一点作用。
+**Fujian Agriculture and Forestry University · Rural Development MSc**  
+Currently exploring the space between social research, data, AI, and things people can actually use.
 
-- 乡村发展与农村社会
-- 数字农业与技术采纳
-- 森林碳汇与生态治理
-- 数据分析与研究工作流
-
-## TOOLKIT
+<details>
+<summary>ABOUT / STACK</summary>
 
 `Python` · `Pandas` · `Stata` · `SPSS` · `HTML/CSS/JavaScript` · `Git` · `AI-assisted workflow`
 
-## CONTACT
-
-如果你正在做研究、数据工具、AI 工作流或小型数字产品，欢迎从我的[个人站点](https://jokeslin.github.io/)开始了解，也可以直接在 [GitHub](https://github.com/JokesLin) 找到我。
-
-<details>
-<summary>ARCHIVE / NOTES</summary>
-
-这里不是完整简历，而是一份持续更新的工作索引：研究在这里留下问题，项目在这里留下答案，未完成的实验也可以保留痕迹。
+I care about whether a tool is useful in a real context, whether it lowers the cost of understanding, and whether it leaves something concrete behind.
 
 </details>
+
+## 04 / CONTACT
+
+Open to thoughtful collaborations around research, data tools, AI workflows, and small digital products.
+
+[PERSONAL SITE ↗](https://jokeslin.github.io/) · [GITHUB ↗](https://github.com/JokesLin)
 
 <br />
 
 <div align="center">
-  <sub>Built with curiosity · designed for clarity · maintained one small window at a time.</sub>
+  <sub>Built with curiosity · designed for clarity · still in progress.</sub>
 </div>

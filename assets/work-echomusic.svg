@@ -1,0 +1,66 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">EchoMusic preview</title>
+  <desc id="desc">A dark music player interface with an iridescent album card and waveform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="106" y1="42" x2="1116" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15131F"/>
+      <stop offset="0.52" stop-color="#0E1522"/>
+      <stop offset="1" stop-color="#071B24"/>
+    </linearGradient>
+    <linearGradient id="album" x1="190" y1="202" x2="514" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF5EAE"/>
+      <stop offset="0.4" stop-color="#7C6FFF"/>
+      <stop offset="0.74" stop-color="#49D6F9"/>
+      <stop offset="1" stop-color="#D4FF86"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="636" y1="444" x2="1046" y2="444" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF70C7"/>
+      <stop offset="0.5" stop-color="#9A83FF"/>
+      <stop offset="1" stop-color="#55E0FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 305) rotate(90) scale(270)">
+      <stop stop-color="#B66BFF" stop-opacity="0.37"/>
+      <stop offset="1" stop-color="#B66BFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#A7CFFF" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="26" stdDeviation="26" flood-color="#000000" flood-opacity="0.62"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="680" rx="34" fill="#07080D"/>
+  <rect x="18" y="18" width="1164" height="644" rx="26" fill="url(#bg)" stroke="#58617C" stroke-opacity="0.55"/>
+  <rect x="32" y="32" width="1136" height="616" rx="20" fill="url(#grid)" opacity="0.42"/>
+  <circle cx="330" cy="305" r="280" fill="url(#glow)"/>
+  <g filter="url(#shadow)">
+    <rect x="72" y="72" width="1056" height="536" rx="28" fill="#0B0D15" fill-opacity="0.74" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="72" y="72" width="1056" height="68" rx="28" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <circle cx="110" cy="106" r="7" fill="#FF5F57"/>
+    <circle cx="136" cy="106" r="7" fill="#FEBC2E"/>
+    <circle cx="162" cy="106" r="7" fill="#28C840"/>
+    <text x="205" y="112" fill="#E8E9F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="650" letter-spacing="2.4">ECHOMUSIC / PLAYER</text>
+    <text x="1084" y="112" text-anchor="end" fill="#858DAA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" letter-spacing="1.8">NOW PLAYING</text>
+
+    <rect x="124" y="188" width="364" height="364" rx="28" fill="url(#album)"/>
+    <circle cx="308" cy="370" r="111" fill="#0A0B12" fill-opacity="0.38" stroke="#FFFFFF" stroke-opacity="0.22"/>
+    <circle cx="308" cy="370" r="72" fill="#0A0B12" fill-opacity="0.52" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <circle cx="308" cy="370" r="12" fill="#FFFFFF" fill-opacity="0.88"/>
+    <path d="M158 494C214 418 295 482 348 420C388 374 427 398 466 348" stroke="#FFFFFF" stroke-opacity="0.44" stroke-width="2"/>
+    <text x="156" y="230" fill="#FFFFFF" fill-opacity="0.84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="2.8">CONCEPT PLAYER</text>
+    <text x="156" y="582" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="650">EchoMusic</text>
+
+    <text x="580" y="220" fill="#A6B2D6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="700" letter-spacing="2.8">A SMALL STUDY IN SOUND</text>
+    <text x="580" y="286" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="700" letter-spacing="-1.6">Echoes in</text>
+    <text x="580" y="334" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="700" letter-spacing="-1.6">motion.</text>
+    <text x="580" y="382" fill="#A3AAC3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16">A third-party Kugou concept player.</text>
+    <text x="580" y="410" fill="#A3AAC3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16">Music product, interface, and interaction.</text>
+
+    <path d="M580 468H1050" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <path d="M580 468C602 434 614 512 630 472C648 426 660 508 680 459C696 420 710 514 728 466C744 424 760 504 776 460C794 414 808 514 828 468C846 422 860 504 880 460C898 420 914 508 932 466C950 430 968 492 982 458C1000 420 1022 488 1050 450" stroke="url(#wave)" stroke-width="3" stroke-linecap="round"/>
+    <text x="580" y="522" fill="#7F86A8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">00:42</text>
+    <text x="1050" y="522" text-anchor="end" fill="#7F86A8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600">03:18</text>
+    <circle cx="812" cy="570" r="24" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <path d="M806 558L824 570L806 582V558Z" fill="#FFFFFF"/>
+  </g>
+</svg>
