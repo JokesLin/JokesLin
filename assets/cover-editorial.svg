@@ -1,0 +1,61 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Joke Lin — A Working Archive</title>
+  <desc id="desc">An editorial cover in paper, ink, and brass introducing Joke Lin as a rural development researcher and builder.</desc>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.045"/></feComponentTransfer>
+    </filter>
+    <radialGradient id="warm" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1240 250) rotate(120) scale(820 620)">
+      <stop stop-color="#FFFDFA" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#FFFDFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="700" y1="300" x2="1500" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#755333" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#9B7550" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#755333" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="#EEEAE4"/>
+  <rect width="1600" height="900" fill="url(#warm)"/>
+  <rect width="1600" height="900" filter="url(#grain)" opacity="0.9"/>
+
+  <!-- frame -->
+  <rect x="48" y="48" width="1504" height="804" stroke="#171614" stroke-opacity="0.17"/>
+  <path d="M48 108H1552" stroke="#171614" stroke-opacity="0.17"/>
+
+  <!-- topbar -->
+  <text x="84" y="88" fill="#171614" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.5">Joke Lin</text>
+  <text x="800" y="84" text-anchor="middle" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">A WORKING ARCHIVE · 2026</text>
+  <text x="1516" y="84" text-anchor="end" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">ABOUT · INDEX · CONTACT</text>
+
+  <!-- folio -->
+  <text x="84" y="170" fill="#171614" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.5">JOKE LIN / 林有崧</text>
+  <text x="84" y="192" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1.5">RURAL DEVELOPMENT · DATA · AI</text>
+  <text x="84" y="214" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1.5">FUZHOU · CHINA</text>
+
+  <!-- giant cover title -->
+  <text x="66" y="440" fill="#171614" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="290" font-weight="500" letter-spacing="-16">Joke</text>
+  <text x="212" y="690" fill="none" stroke="#171614" stroke-width="1.5" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="290" font-weight="500" letter-spacing="-16">Lin</text>
+
+  <!-- vertical subtitle -->
+  <text transform="translate(672 440) rotate(-90)" fill="#755333" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.6">RESEARCH · EXPERIMENTS · OTHER LIVES</text>
+
+  <!-- portrait plate -->
+  <g>
+    <rect x="1120" y="196" width="380" height="380" fill="none" stroke="#171614" stroke-opacity="0.3"/>
+    <rect x="1136" y="212" width="348" height="348" fill="#E2DCD3"/>
+    <rect x="1136" y="212" width="348" height="348" fill="url(#shine)" opacity="0.5"/>
+    <circle cx="1310" cy="386" r="86" fill="none" stroke="#171614" stroke-opacity="0.4"/>
+    <circle cx="1310" cy="386" r="28" fill="#755333" fill-opacity="0.75"/>
+    <path d="M1136 470C1200 470 1250 380 1310 380C1370 380 1420 470 1484 470" stroke="#171614" stroke-opacity="0.25"/>
+    <text x="1136" y="596" fill="#171614" fill-opacity="0.5" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.8">PLATE 01 / 01</text>
+  </g>
+
+  <!-- rule + note -->
+  <path d="M84 756H1516" stroke="#171614" stroke-opacity="0.17"/>
+  <text x="84" y="792" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="0.4">Rural development researcher. Builder of quiet tools.</text>
+  <text x="1516" y="792" text-anchor="end" fill="#171614" fill-opacity="0.38" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">01 — OPEN THE ARCHIVE</text>
+</svg>

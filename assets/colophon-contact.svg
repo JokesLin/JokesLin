@@ -1,0 +1,43 @@
+<svg width="1600" height="640" viewBox="0 0 1600 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Colophon and contact</title>
+  <desc id="desc">An editorial closing page with a colophon, research interests, and contact links.</desc>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.045"/></feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="640" fill="#171614"/>
+  <rect width="1600" height="640" filter="url(#grain)" opacity="1"/>
+  <rect x="48" y="48" width="1504" height="544" stroke="#EEEAE4" stroke-opacity="0.14"/>
+  <path d="M48 108H1552" stroke="#EEEAE4" stroke-opacity="0.14"/>
+
+  <text x="84" y="88" fill="#EEEAE4" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">COLOPHON · CONTACT</text>
+  <text x="1516" y="88" text-anchor="end" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">03 / 03</text>
+
+  <text x="84" y="272" fill="#EEEAE4" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="150" font-weight="500" letter-spacing="-7">Still working.</text>
+  <text x="88" y="314" fill="#9B7550" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3.2">OPEN TO THOUGHTFUL COLLABORATION</text>
+
+  <path d="M84 380H1516" stroke="#EEEAE4" stroke-opacity="0.14"/>
+
+  <text x="84" y="428" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.8">RESEARCH</text>
+  <text x="84" y="456" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Rural development</text>
+  <text x="84" y="478" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Digital agriculture</text>
+  <text x="84" y="500" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Forest carbon</text>
+
+  <text x="560" y="428" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.8">TOOLKIT</text>
+  <text x="560" y="456" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Python · Pandas · Stata · SPSS</text>
+  <text x="560" y="478" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">HTML / CSS / JavaScript</text>
+  <text x="560" y="500" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">AI-assisted workflow</text>
+
+  <text x="1120" y="428" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.8">ELSEWHERE</text>
+  <text x="1120" y="456" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">jokeslin.github.io</text>
+  <text x="1120" y="478" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">github.com/JokesLin</text>
+  <text x="1120" y="500" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Fuzhou, China</text>
+
+  <path d="M84 548H1516" stroke="#EEEAE4" stroke-opacity="0.14"/>
+  <text x="84" y="576" fill="#EEEAE4" fill-opacity="0.38" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.6">SET IN CORMORANT GARAMOND &amp; MANROPE · PAPER, INK &amp; BRASS</text>
+  <text x="1516" y="576" text-anchor="end" fill="#EEEAE4" fill-opacity="0.38" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.6">JOKE LIN · 2026</text>
+</svg>

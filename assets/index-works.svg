@@ -1,0 +1,51 @@
+<svg width="1600" height="760" viewBox="0 0 1600 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Index — selected works</title>
+  <desc id="desc">An editorial index page listing the personal portal, EchoMusic, and the ongoing research notebook.</desc>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.045"/></feComponentTransfer>
+    </filter>
+    <linearGradient id="shine" x1="1180" y1="430" x2="1520" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#755333" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9B7550" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#755333" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="760" fill="#EEEAE4"/>
+  <rect width="1600" height="760" filter="url(#grain)" opacity="0.9"/>
+
+  <rect x="48" y="48" width="1504" height="664" stroke="#171614" stroke-opacity="0.17"/>
+  <path d="M48 108H1552" stroke="#171614" stroke-opacity="0.17"/>
+
+  <text x="84" y="88" fill="#171614" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">JOKE LIN · INDEX</text>
+  <text x="1516" y="88" text-anchor="end" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">02 / 03</text>
+
+  <text x="84" y="228" fill="#171614" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="92" font-weight="500" letter-spacing="-4">Selected works</text>
+  <text x="88" y="266" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="0.4">Quiet things built between papers.</text>
+
+  <path d="M84 316H1516" stroke="#171614" stroke-opacity="0.17"/>
+  <path d="M84 428H1516" stroke="#171614" stroke-opacity="0.09"/>
+  <path d="M84 540H1516" stroke="#171614" stroke-opacity="0.09"/>
+  <path d="M84 652H1516" stroke="#171614" stroke-opacity="0.17"/>
+
+  <text x="84" y="360" fill="#9B7550" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">01</text>
+  <text x="140" y="366" fill="#171614" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="500" letter-spacing="-1">Personal Portal</text>
+  <text x="140" y="394" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="0.3">A digital home for notes, tools, writing, and small experiments.</text>
+  <text x="1516" y="368" text-anchor="end" fill="#171614" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">WEB · 2024 —</text>
+
+  <text x="84" y="472" fill="#9B7550" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">02</text>
+  <text x="140" y="478" fill="#171614" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="500" letter-spacing="-1">EchoMusic</text>
+  <text x="140" y="506" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="0.3">A concept player — a small study in sound and interface.</text>
+  <text x="1516" y="480" text-anchor="end" fill="#171614" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">PRODUCT · 2026</text>
+
+  <text x="84" y="584" fill="#9B7550" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">03</text>
+  <text x="140" y="590" fill="#171614" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="500" letter-spacing="-1">Field Notes</text>
+  <text x="140" y="618" fill="#171614" fill-opacity="0.62" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" letter-spacing="0.3">Rural development, digital agriculture, and the long research arc.</text>
+  <text x="1516" y="592" text-anchor="end" fill="#171614" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">RESEARCH · ONGOING</text>
+
+  <text x="84" y="690" fill="#171614" fill-opacity="0.38" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">ALL ENTRIES KEPT IN THE ORDER THEY ARRIVED</text>
+  <rect x="1396" y="675" width="120" height="1" fill="url(#shine)"/>
+</svg>
