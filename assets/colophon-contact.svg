@@ -1,0 +1,59 @@
+<svg width="1600" height="700" viewBox="0 0 1600 700" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Colophon and contact</title>
+  <desc id="desc">An editorial closing page with a colophon, research interests, and contact links.</desc>
+  <style>
+  @keyframes draw   { from { stroke-dashoffset: var(--len, 4000); } to { stroke-dashoffset: 0; } }
+  @keyframes rise   { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes sweep  { from { transform: translate(-640px, 0); } to { transform: translate(640px, 0); } }
+  @keyframes breathe{ 0%, 100% { opacity: .3; } 50% { opacity: .85; } }
+  .ln { stroke-dasharray: var(--len, 4000); animation: draw 2.8s cubic-bezier(.22,.61,.36,1) .3s both; }
+  .rs { animation: rise .9s cubic-bezier(.22,.61,.36,1) both; }
+  .fi { animation: fadeIn 1.4s ease both; }
+  .d1{animation-delay:.2s} .d2{animation-delay:.4s} .d3{animation-delay:.6s} .d4{animation-delay:.8s}
+  .d5{animation-delay:1s} .d6{animation-delay:1.2s} .d7{animation-delay:1.4s} .d8{animation-delay:1.6s}
+  .sweep { animation: sweep 3.6s cubic-bezier(.4,0,.2,1) 1s both; }
+  .br { animation: breathe 6s ease-in-out infinite; }
+  @media (prefers-reduced-motion: reduce) { .ln,.rs,.fi,.sweep,.br { animation: none !important; } }
+</style>
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.045"/></feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="700" fill="#171614"/>
+  <rect width="1600" height="700" filter="url(#grain)" opacity="1"/>
+  <rect x="48" y="48" width="1504" height="604" stroke="#EEEAE4" stroke-opacity="0.14"/>
+  <path d="M48 108H1552" stroke="#EEEAE4" stroke-opacity="0.14"/>
+
+  <text x="84" y="88" fill="#EEEAE4" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">COLOPHON · CONTACT</text>
+  <text x="1516" y="88" text-anchor="end" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">03 / 03</text>
+
+  <text class="rs d1" x="84" y="262" fill="#EEEAE4" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="150" font-weight="500" letter-spacing="-7">Still working.</text>
+  <text class="fi d2" x="88" y="302" fill="#9B7550" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3.2">OPEN TO THOUGHTFUL COLLABORATION</text>
+
+  <path class="ln d2" style="--len:1432" d="M84 340H1516" stroke="#EEEAE4" stroke-opacity="0.14"/>
+
+  <text class="fi d4" x="84" y="446" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.8">RESEARCH</text>
+  <text x="84" y="474" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Rural studies</text>
+  <text x="84" y="496" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Digital agriculture</text>
+  <text x="84" y="518" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Forest carbon</text>
+
+  <text class="fi d5" x="560" y="446" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.8">TOOLKIT</text>
+  <text x="560" y="474" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Python · Pandas · Stata · SPSS</text>
+  <text x="560" y="496" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">HTML / CSS / JavaScript</text>
+  <text x="560" y="518" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">AI-assisted workflow</text>
+
+  <text class="fi d6" x="1120" y="446" fill="#EEEAE4" fill-opacity="0.45" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.8">ELSEWHERE</text>
+  <text x="1120" y="474" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">jokeslin.github.io</text>
+  <text x="1120" y="496" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">github.com/JokesLin</text>
+  <text x="1120" y="518" fill="#EEEAE4" fill-opacity="0.82" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500">Fujian, China</text>
+
+  <path d="M84 612H1516" stroke="#EEEAE4" stroke-opacity="0.14"/>
+  <text x="84" y="640" fill="#EEEAE4" fill-opacity="0.38" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.6">SET IN CORMORANT GARAMOND &amp; MANROPE · PAPER, INK &amp; BRASS</text>
+  <text x="1516" y="640" text-anchor="end" fill="#EEEAE4" fill-opacity="0.38" font-family="'Manrope', 'Helvetica Neue', Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.6">JOKE LIN · 2026</text>
+  <text class="rs d3" x="84" y="372" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#EEEAE4" fill-opacity="0.66">农村发展硕士在读，研究数字农业、森林碳汇与乡村社会。</text>
+  <text class="rs d4" x="84" y="394" font-family="'Manrope', 'Inter Tight', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#EEEAE4" fill-opacity="0.66">喜欢把研究里的问题，做成别人也能用的东西。</text></svg>
